@@ -1,0 +1,23 @@
+{
+  "name": "favorite",
+  "version": "0.0.1",
+  "description": "My favorites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:imfly/favorite.git"
+  },
+  "keywords": [
+    "favorite",
+    "nodejs",
+    "docs"
+  ],
+  "author": "imfly",
+  "license": "MIT",
+  "devDependencies": {
+    "to-markdown": "^2.0.1"
+  }
+}
